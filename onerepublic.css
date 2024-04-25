@@ -1,0 +1,142 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.cabecera {
+    background-image: url("https://onerepublic.com/wp-content/uploads/2019/11/1RSticker-copy-e1573955451147.png");
+    background-repeat: no-repeat; 
+    background-position-x: center;
+    background-position-y: center; 
+    background-size: 1100px; 
+    width: 1330px;
+    height: 145px; 
+    border: 1px solid #999999; 
+    padding: 1px;
+    text-align: center;
+}
+
+a{
+    color: aqua;
+}
+
+.menu{
+background-color: #000000;
+padding-top: auto;
+padding-bottom: auto;
+margin:5px; color: black;
+}
+
+h2 {
+text-align: center; 
+font-family: impact;
+color: #AB47BC;
+}
+
+.articulo {
+background-image: url("https://e1.pxfuel.com/desktop-wallpaper/28/933/desktop-wallpaper-onerepublic-in-2019-ryan-tedder-phone.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;
+background-size: cover;
+width: 70%;
+height: 100%; 
+border: 1px solid #999999;
+padding-left: 15px; 
+padding-right: 15px;
+display: inline-block; 
+float: left;
+font-size: 18px; 
+font-family: spectral;
+}
+
+.aparte {
+width: 30%; 
+height: 1294px;
+border: 1px solid #999999;
+float: left;
+color: aqua;
+background-color: chocolate;
+}
+
+.footer {
+float: none; 
+width: 1330px;
+height: 60px; 
+border: 1px solid #999999;
+background: #131849; 
+display: inline-block; 
+}
+
+#foto1{
+    float: left;
+    width: 300px;
+    height: 275px;
+    border: 1px solid #FFF9C4;
+}
+
+#top{
+    text-align: right;
+    list-style-position: inside;
+    color: black;
+    font-family: courier;
+}
+
+.lista1{
+    text-align: right;
+    font-family: comic sans ms;
+}
+
+.lista2{
+    text-align: right;
+    font-family: comic sans ms;
+}
+
+#premios{
+    text-align: right;
+    list-style-position: inside;
+    color: black;
+    font-family: courier;
+}
+
+p{
+    font-family: comic;
+    color: #000000;
+}
+
+#counting{
+    float: left;
+    height: 200px;
+    width: 400px;
+    border: 1px solid #FFF9C4;
+}
+
+#sunshine{
+    float: right;
+    height: 200px;
+    width: 400px;
+    border: 1px solid #FFF9C4;
+}
+
+#integrantes{
+    color: rgb(0, 0, 0);
+    font-family: courier;
+}
+
+#int{
+    font-family: comic sans ms;
+    text-align: left;
+}
+
+.cuerpo{
+    display: flex;
+}
+
+#final{
+    font-family: courier;
+    color: rgb(208, 255, 0);
+}
+
+img{
+    width: 200px;
+    height: 150px;
+}
